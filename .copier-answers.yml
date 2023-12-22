@@ -1,0 +1,21 @@
+_commit: 61eeffb
+_src_path: gh:bswck/skeleton
+author_username: bswck
+docs: true
+docs_slug: poetry-env
+email_address: bswck.dev@gmail.com
+github_username: bswck
+license_name: MIT
+org_full_name: Bartosz Sławecki
+package_name: poetry_env
+project_description: A Poetry plugin that sets up default environment variables in
+    the virtual environment.
+publish_on_pypi: true
+pypi_project_description: A Poetry plugin that sets up default environment variables
+    in the virtual environment.
+pypi_project_name: poetry-env
+python_version: '3.8'
+repo_name: poetry-env
+tests: true
+use_precommit: true
+visibility: public
